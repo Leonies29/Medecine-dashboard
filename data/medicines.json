@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "name": "Paracetamol",
+    "category": "Pain Relief",
+    "price": 4.50,
+    "delivery_country": "France"
+  },
+  {
+    "id": 102,
+    "name": "Vitamin C",
+    "category": "Vitamin",
+    "price": 8.90,
+    "delivery_country": "Belgium"
+  },
+  {
+    "id": 103,
+    "name": "Ibuprofen",
+    "category": "Pain Relief",
+    "price": 6.20,
+    "delivery_country": "France"
+  },
+  {
+    "id": 104,
+    "name": "Antihistamine",
+    "category": "Allergy",
+    "price": 12.50,
+    "delivery_country": "Spain"
+  },
+  {
+    "id": 105,
+    "name": "Cough Syrup",
+    "category": "Cough and Cold",
+    "price": 7.40,
+    "delivery_country": "Belgium"
+  }
+]
